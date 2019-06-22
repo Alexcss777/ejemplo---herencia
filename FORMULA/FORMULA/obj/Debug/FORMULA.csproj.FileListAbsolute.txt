@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\FORMULA\FORMULA\bin\Debug\FORMULA.exe.config
+C:\Users\Alex\source\repos\FORMULA\FORMULA\bin\Debug\FORMULA.exe
+C:\Users\Alex\source\repos\FORMULA\FORMULA\bin\Debug\FORMULA.pdb
+C:\Users\Alex\source\repos\FORMULA\FORMULA\obj\Debug\FORMULA.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\FORMULA\FORMULA\obj\Debug\FORMULA.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\FORMULA\FORMULA\obj\Debug\FORMULA.exe
+C:\Users\Alex\source\repos\FORMULA\FORMULA\obj\Debug\FORMULA.pdb
